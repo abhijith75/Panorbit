@@ -73,7 +73,7 @@
             <br>
             <table>
                 <tr>
-                    <td style="text-align:center;width:32%;color:#adb5bd;font-weight:normal">
+                    <td style="text-align:right;width:32%;color:#adb5bd;font-weight:normal">
                         Username :
                     </td>
                     <td style="padding-left:20px;text-align:left;">
