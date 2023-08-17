@@ -330,6 +330,7 @@ margin-bottom:0;
     color: #e5e5e5;
     border-bottom: 0.5px solid white;
     transition: ease .4s;
+    cursor: pointer;
 }
 #last{
     border: none;
@@ -368,6 +369,7 @@ margin-bottom:0;
   margin-bottom:5%;
   border-radius: 2px;
   transition: ease .2s;
+  cursor: pointer;
  }
 
    /* Button touch feel  */
@@ -444,7 +446,7 @@ margin-bottom:0;
    border-radius: 11px 11px 0px 0px;
    width:50%;
    bottom: 0;
-  
+   cursor: pointer;
    
   } 
 
