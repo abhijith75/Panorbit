@@ -234,7 +234,7 @@
                     <div class="status_list" style="width:96%;background:white;padding:2%;font-size:20px;height:20em;overflow:auto">
                         <div v-for="j in data" :key="j.id">
                             <a v-on:click="PersonalChat=j;comments=[]" style="display:flex;align-items: center;justify-content:space-between;padding-left:5%;padding-right:5%;">
-                                <a style="display:flex;align-items: center;justify-content:center;"><img :src=j.profilepicture heigth="40em" width="40em" style="border-radius:50%;">&nbsp;&nbsp;{{j.name}}</a>
+                                <a style="display:flex;align-items: center;justify-content:center;cursor: pointer;"><img :src=j.profilepicture heigth="40em" width="40em" style="border-radius:50%;">&nbsp;&nbsp;{{j.name}}</a>
                                 <a style="width:10px;height:10px;border-radius:50%;background:green"></a>
                             </a><br>
                         </div>
