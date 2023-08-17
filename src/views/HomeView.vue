@@ -56,7 +56,6 @@ methods:{
 .Select_Account{
   position: absolute;
   top:50%;
- cursor: pointer;
   left:50%;
   transform: translate(-50%,-50%);
   border-radius:2em;
@@ -84,6 +83,7 @@ methods:{
   border-bottom: 0.5px solid #e5e5e5;
   margin-right:5%;
   margin-left:5%;
+  cursor: pointer;  
 }
 .Account_List{
   overflow:auto;
